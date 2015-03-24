@@ -326,11 +326,11 @@
 }
 * html #wowslider-container1 .ws_shadow{/*ie6*/
 	background:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader( src='engine1/bg.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader( src='http://2.bp.blogspot.com/-qYNeFcH4Kuw/VRGhUqv47HI/AAAAAAAAAFo/HDdvhUI-Lj0/s1600/bg.png', sizingMethod='scale');
 }
 *+html #wowslider-container1 .ws_shadow{/*ie7*/
 	background:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader( src='engine1/bg.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader( src='http://2.bp.blogspot.com/-qYNeFcH4Kuw/VRGhUqv47HI/AAAAAAAAAFo/HDdvhUI-Lj0/s1600/bg.png', sizingMethod='scale');
 }
 #wowslider-container1 .ws_bullets  a img{
 	text-indent:0;
